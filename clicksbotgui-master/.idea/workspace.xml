@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="26485f3f-66ad-4038-9060-e521e5cc35d0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Rust File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="9p2ew3my" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1qnySU9mskiH4McHcryYByMbus9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;org.rust.cargo.project.model.PROJECT_DISCOVERY&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Run" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="command" value="rustc --bin clicksbotgui --release -- -C link-args=&quot;/ENTRY:startup /SUBSYSTEM:console /DYNAMICBASE:NO /FIXED /NXCOMPAT:NO /SECTION:.code,ERW /SECTION:.stub,ERW&quot;" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <option name="channel" value="NIGHTLY" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26485f3f-66ad-4038-9060-e521e5cc35d0" name="Default Changelist" comment="" />
+      <created>1617729648656</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617729648656</updated>
+      <workItem from="1617729650227" duration="5648000" />
+      <workItem from="1617735916300" duration="4497000" />
+      <workItem from="1617740588184" duration="94000" />
+      <workItem from="1617740720708" duration="8468000" />
+      <workItem from="1617755728513" duration="6191000" />
+      <workItem from="1617769293308" duration="83000" />
+      <workItem from="1617769531584" duration="4898000" />
+      <workItem from="1617802623685" duration="3193000" />
+      <workItem from="1617806427936" duration="235000" />
+      <workItem from="1617807721154" duration="898000" />
+      <workItem from="1617808787949" duration="87000" />
+      <workItem from="1617808889372" duration="589000" />
+      <workItem from="1617821552001" duration="1248000" />
+      <workItem from="1617823071654" duration="2318000" />
+      <workItem from="1617826079404" duration="4137000" />
+      <workItem from="1617856415566" duration="314000" />
+      <workItem from="1617857173198" duration="1927000" />
+      <workItem from="1617882030005" duration="3254000" />
+      <workItem from="1617893719390" duration="3363000" />
+      <workItem from="1617898394064" duration="176000" />
+      <workItem from="1617898804921" duration="186000" />
+      <workItem from="1617899390876" duration="664000" />
+      <workItem from="1617902891163" duration="1615000" />
+      <workItem from="1617908151371" duration="1670000" />
+      <workItem from="1617930165733" duration="1039000" />
+      <workItem from="1617933172724" duration="327000" />
+      <workItem from="1618085034134" duration="4153000" />
+      <workItem from="1623127349095" duration="112000" />
+      <workItem from="1623127660316" duration="221000" />
+      <workItem from="1623127994754" duration="12000" />
+      <workItem from="1623423169378" duration="106000" />
+      <workItem from="1623432611024" duration="136000" />
+      <workItem from="1623539719469" duration="81000" />
+      <workItem from="1623600612966" duration="79000" />
+      <workItem from="1624045033967" duration="6000" />
+      <workItem from="1624045058667" duration="624000" />
+      <workItem from="1624293633287" duration="193000" />
+      <workItem from="1624414039633" duration="623000" />
+      <workItem from="1624415748717" duration="594000" />
+      <workItem from="1624557696746" duration="360000" />
+      <workItem from="1624660937111" duration="606000" />
+      <workItem from="1624735832341" duration="152000" />
+      <workItem from="1624903865357" duration="767000" />
+      <workItem from="1625370173456" duration="99000" />
+      <workItem from="1625541408241" duration="57000" />
+      <workItem from="1625773382681" duration="10000" />
+      <workItem from="1625782621586" duration="143000" />
+      <workItem from="1626115483388" duration="565000" />
+      <workItem from="1626117007616" duration="63000" />
+      <workItem from="1626160643822" duration="1276000" />
+      <workItem from="1626376266448" duration="109000" />
+      <workItem from="1626377759540" duration="221000" />
+      <workItem from="1626652914368" duration="68000" />
+      <workItem from="1626758119395" duration="41000" />
+      <workItem from="1626845128785" duration="99000" />
+      <workItem from="1626893646472" duration="43000" />
+      <workItem from="1627063381852" duration="51000" />
+      <workItem from="1627063635233" duration="1212000" />
+      <workItem from="1627143084016" duration="603000" />
+      <workItem from="1627357296045" duration="14000" />
+      <workItem from="1627441650468" duration="113000" />
+      <workItem from="1627673778545" duration="69000" />
+      <workItem from="1627673863874" duration="378000" />
+      <workItem from="1627681332597" duration="118000" />
+      <workItem from="1627767616026" duration="40000" />
+      <workItem from="1628449031935" duration="479000" />
+      <workItem from="1628460908582" duration="51000" />
+      <workItem from="1628791499353" duration="44000" />
+      <workItem from="1629227890059" duration="80000" />
+      <workItem from="1629238690697" duration="46000" />
+      <workItem from="1629995971134" duration="52000" />
+      <workItem from="1630001960249" duration="182000" />
+      <workItem from="1630343418320" duration="311000" />
+      <workItem from="1630360463073" duration="72000" />
+      <workItem from="1630435363036" duration="304000" />
+      <workItem from="1630615655457" duration="816000" />
+      <workItem from="1630616731448" duration="43000" />
+      <workItem from="1630646081441" duration="132000" />
+      <workItem from="1630654002138" duration="101000" />
+      <workItem from="1630654155941" duration="21000" />
+      <workItem from="1630728717337" duration="63000" />
+      <workItem from="1630728788812" duration="38000" />
+      <workItem from="1630763222921" duration="62000" />
+      <workItem from="1631123942820" duration="169000" />
+      <workItem from="1631125675011" duration="92000" />
+      <workItem from="1631394361471" duration="82000" />
+      <workItem from="1631702702255" duration="313000" />
+      <workItem from="1631744842724" duration="1237000" />
+    </task>
+    <task id="LOCAL-00001" summary="Basic functionality added.">
+      <created>1617806594172</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617806594172</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Basic functionality added.">
+      <created>1617808450975</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1617808450975</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Basic functionality added.">
+      <created>1617808492615</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1617808492615</updated>
+    </task>
+    <task id="LOCAL-00004" summary="yBot integration added.">
+      <created>1617897185110</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1617897185110</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Finished Beta-GUI release.">
+      <created>1618242645898</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1618242645898</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Removed whitespace-needed removal.">
+      <created>1618256237525</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1618256237525</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added hardclicks.">
+      <created>1618287416250</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1618287416250</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Fixed hardclicks.">
+      <created>1618317546304</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1618317546304</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Fixed ZBF double clicks.">
+      <created>1623088369250</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1623088369250</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Fixed ZBF double clicks.">
+      <created>1623127445997</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1623127445997</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Finished (No more updates, probably).">
+      <created>1626116030746</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1626116030746</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Finished (No more updates, probably).">
+      <created>1627673876977</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1627673876978</updated>
+    </task>
+    <task id="LOCAL-00013" summary="changed some text, stole some credit. But did not pay tax">
+      <created>1666727316853</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1666727316853</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Basic functionality added." />
+    <MESSAGE value="yBot integration added." />
+    <MESSAGE value="Finished Beta-GUI release." />
+    <MESSAGE value="Removed whitespace-needed removal." />
+    <MESSAGE value="Added hardclicks." />
+    <MESSAGE value="Fixed hardclicks." />
+    <MESSAGE value="Fixed ZBF double clicks." />
+    <MESSAGE value="Finished (No more updates, probably)." />
+    <MESSAGE value="changed some text, stole some credit. But did not pay tax" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed some text, stole some credit. But did not pay tax" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
